@@ -1,0 +1,20 @@
+.ifam-locations-sortable tbody tr {
+    cursor: move;
+}
+
+.ifam-locations-sortable .drag-handle {
+    cursor: grab;
+    text-align: center;
+    font-size: 18px;
+    color: #999;
+    width: 30px;
+}
+
+.ifam-locations-sortable .drag-handle:active {
+    cursor: grabbing;
+}
+
+.ifam-locations-sortable tbody tr.ui-sortable-helper {
+    background: #f0f0f1;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
