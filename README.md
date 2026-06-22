@@ -7,9 +7,11 @@ It has two main functions.
 
 1) The display above the homepage on the WordPress blog that shows the current and next locations:
 
-<img width="528" height="92" alt="Header" src="https://github.com/user-attachments/assets/d80400b7-e44e-4c11-b497-a395d012c61b" />
+<img width="528" height="92" alt="Header" src="https://github.com/user-attachments/assets/d80400b7-e44e-4c11-b497-a395d012c61b" />  
 
-2) Adding an endpoint for the location data for another server that creates the content for the blog:
+
+  
+2) Adding an endpoint for the location data. This is used by another server that creates the content for the blog as below:
 
 <img width="746" height="274" alt="Code" src="https://github.com/user-attachments/assets/5cbda74b-72a6-4aed-9c36-525a8589c88c" />
 
